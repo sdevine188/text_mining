@@ -1,0 +1,17 @@
+The crisis in the euro area — as opposed to the broader global financial crisis — began in late 2009. It’s still far from over. But some of the hard-hit peripheral economies, notably Ireland and Spain, are finally growing again. So how should we think about such recoveries, and how do they fit into an overall picture of the single currency’s performance? I thought it might be useful to walk through how I understand the situation, illustrating the argument with data from Spain, which I think of as the quintessential euro-crisis country — a country that didn’t commit any obvious policy sins, but was whipsawed by huge inflows of capital that suddenly reversed. (All data are from the IMF World Economic Outlook database.)
+
+First, a reminder of just how bad it has been, and how far we still are from full recovery:
+Notice that at this point Finland — which is suffering from an idiosyncratic shock to its export industries rather than a sudden stop in capital inflows — is doing as badly as much of southern Europe. This is a reminder that the euro system creates huge problems for adjustment everywhere, that this isn’t a one-time problem.
+
+But how would we expect countries to respond to adverse shocks? Contrary to what many people seem to believe, Keynesian-type analysis doesn’t say that countries can never recover without devaluation and/or fiscal stimulus; on the contrary, as I pointed out more than three years ago, it predicts a gradual recovery through internal devaluation — that is, a depressed economy will cause low or negative inflation, gradually improving competitiveness against other members of the currency union, and rising net exports should drive growth as long as they’re not offset by ever-tighter austerity.
+
+Spanish experience since the euro was created in 1999 does indeed suggest that a depressed economy holds down inflation:
+And internal devaluation has slowly improved competitiveness (as measured by relative GDP deflators) against the European core:
+What about austerity? Spain did a lot of tightening in the first few years of the euro crisis, but not much since then:
+So we would expect, other things equal, to see Spain experiencing faster growth than the rest of the euro area at this point, as internal devaluation improves competitiveness while fiscal policy is no longer tightening the screws.
+
+The question then is, does this constitute any kind of vindication of either the euro or the austerity regime? As you might guess, I’d say that the answer is a clear no. Yes, adjustment can take place even with a single currency; but it’s a very slow and painful process. Yes, growth can resume once you stop imposing ever-harsher austerity; also, if you repeatedly hit yourself on the head with a baseball bat, you will feel better when you stop.
+
+What is true is that the single currency isn’t totally unworkable. It’s just extremely costly.
+
+And on an intellectual level, basic macroeconomics continues to account pretty well for European developments. There’s nothing in recent experience that should shock a Keynesian or cause deep self-doubt.
